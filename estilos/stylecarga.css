@@ -81,7 +81,7 @@ body{
     top: 0;
     left: 0;
 
- 
+    background-image: url("../imagenes/imglogin.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -100,11 +100,6 @@ body::before{
     top: 0;
     left: 0;
     background: linear-gradient(blue,skyblue);
-    background-image: url("../imagenes/imglogin.jpg");
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-
 
     opacity: 0.7;
     z-index: -1;
